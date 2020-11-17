@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Locale</string>
+    <string name="helloWorld">مرحبا بالعالم!</string>
+
+    <string name="hello_universe">مرحبا الكون!</string>
+    <string name="how_are_you">كيف حالكم؟</string>
+    <string name="what_s_happening">ماذا يحدث؟</string>
+    <string name="change_language">تغيير اللغة؟</string>
+</resources>

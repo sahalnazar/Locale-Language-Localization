@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Locale</string>
+    <string name="helloWorld">ഹലോ വേൾഡ്!</string>
+    <string name="hello_universe">ഹലോ യൂണിവേഴ്സ്!</string>
+    <string name="how_are_you">എങ്ങനെയിരിക്കുന്നു?</string>
+    <string name="what_s_happening">എന്താണ് സംഭവിക്കുന്നത്?</string>
+    <string name="change_language">ഭാഷ മാറ്റുക?</string>
+</resources>

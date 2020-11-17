@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Locale</string>
+    <string name="helloWorld">Hello World!</string>
+    <string name="hello_universe">Hello Universe!</string>
+    <string name="how_are_you">How are you?</string>
+    <string name="what_s_happening">What\'s happening?</string>
+    <string name="change_language">Change Language?</string>
+</resources>
